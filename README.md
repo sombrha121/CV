@@ -5,7 +5,7 @@ Este repositorio contiene mi currículum vitae en formato HTML.
 ## 📋 Contenido
 
 - `cv.html` - Mi currículum vitae completo en formato HTML
-- Diseño responsivo y moderno
+- Diseño responsivo y moderno simple
 - Optimizado para impresión
 
 ## 🌐 Ver mi CV
@@ -23,7 +23,7 @@ El CV está optimizado para impresión. Simplemente:
 
 ## 📱 Características
 
-- ✅ Diseño responsivo (se adapta a móviles y tablets)
+- ✅ Diseño responsivo (se adapta a móviles y tablets modelo simple)
 - ✅ Optimizado para impresión
 - ✅ Diseño moderno y profesional
 - ✅ Fácil de personalizar
